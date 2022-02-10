@@ -1,0 +1,14 @@
+{
+  "name": "container-practice",
+  "version": "1.0.0",
+  "description": "a backend app used for practicing building docker image",
+  "author": "Iris Li <first.last@example.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "license": "ISC"
+}
